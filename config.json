@@ -1,0 +1,15 @@
+{
+    "title": "Project HIJ",
+    "baseURL": "https:\/\/hij.com\/klm",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758991",
+        "subfolder": "\/klm",
+        "firstpartycookies": true,
+        "cookiedomain": "hij.com"
+    }
+}
